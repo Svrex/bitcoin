@@ -1,7 +1,8 @@
 <template>
   <div class="content user">
-    <h1>User</h1>
+    <h1>Meine Bitcoin</h1>
     <div class="content--wrapper">
+      <h3>// todo</h3>
     </div>
   </div>
 </template>
